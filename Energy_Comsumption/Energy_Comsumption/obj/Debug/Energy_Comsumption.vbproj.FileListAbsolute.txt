@@ -1,0 +1,24 @@
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.exe.config
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.exe
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.pdb
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.xml
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.frmMain.resources
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.Resources.resources
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.exe
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.xml
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.pdb
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.exe.config
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.exe
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.pdb
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\bin\Debug\Energy_Comsumption.xml
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbprojResolveAssemblyReference.cache
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.frmMain.resources
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.Resources.resources
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbproj.GenerateResource.cache
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.vbproj.CoreCompileInputs.cache
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.exe
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.xml
+\\file\students\ZHU0028\SACTest\Energy_Comsumption\Energy_Comsumption\obj\Debug\Energy_Comsumption.pdb
